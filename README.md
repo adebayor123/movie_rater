@@ -18,7 +18,7 @@ A Single Page Application that uses Django REST Framework and React.
 
 ## How to use?
 Part 1:
-1. Clone the codes from Django API repository
+1. Clone the codes from [Django API repository](https://github.com/adebayor123/movie_rater_api)
 2. Install requirements
 3. Run "python manage.py runserver" 
 
